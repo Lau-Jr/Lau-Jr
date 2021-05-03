@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lau-Jr(Laurent Deusdedith)
 - 👀 I’m interested in Data Scince/Analysis,Machine Learning And Django
 - 🌱 I’m currently learning Data Analysis at Udacity And Django
-- 💞️ I’m looking to collaborate on Creating APIs with Django
+- 💞️ I’m looking to collaborate on Creating APIs with Django, ML and Data Analyis/Science
 - 📫 Reach me out via coderlola@gmail.com
 
 <!---
