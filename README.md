@@ -61,7 +61,7 @@ Long term, I'm interested in combining both worlds to build reliable AI systems 
 ### Data Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,kafka,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,kafka,docker,linux" alt="python, postgres, kafka, docker, linux" />
 </p>
 
 `Python` • `SQL` • `Apache Spark` • `Kafka` • `dbt` • `Airflow` • `Prefect`
@@ -69,7 +69,7 @@ Long term, I'm interested in combining both worlds to build reliable AI systems 
 ### Machine Learning & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="pytorch, tensorflow, sklearn, opencv" />
 </p>
 
 `Machine Learning` • `Deep Learning` • `Computer Vision` • `LLMs` • `RAG`
@@ -77,7 +77,7 @@ Long term, I'm interested in combining both worlds to build reliable AI systems 
 ### Databases & Data Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="postgres, mysql, mongodb" />
 </p>
 
 `PostgreSQL` • `MySQL` • `BigQuery` • `Data Warehouses` • `Lakehouses`
@@ -85,7 +85,7 @@ Long term, I'm interested in combining both worlds to build reliable AI systems 
 ### Cloud & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,nginx" alt="aws, gcp, azure, docker, linux, nginx" />
 </p>
 
 `AWS` • `GCP` • `Azure` • `Docker` • `Linux` • `Nginx`
@@ -93,7 +93,7 @@ Long term, I'm interested in combining both worlds to build reliable AI systems 
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,bash" alt="git, github, vscode, pycharm, bash" />
 </p>
 
 ---
@@ -195,11 +195,11 @@ I'm progressively developing skills around:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lau-Jr&show_icons=true&hide_border=true&count_private=true" alt="Laurent's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lau-Jr&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -207,7 +207,7 @@ I'm progressively developing skills around:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://streak-stats.demolab.com/?user=Lau-Jr&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -225,19 +225,12 @@ I'm progressively developing skills around:
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-</a>
-
-<a href="YOUR_TWITTER_OR_X_URL">
-  <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
-</a>
-
+  <a href="mailto:laurentdeusdedith75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" /></a>
+  <a href="https://github.com/Lau-Jr"><img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" /></a>
+  <!-- Add your LinkedIn / X links here, then uncomment:
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" /></a>
+  <a href="https://x.com/YOUR-HANDLE"><img src="https://skillicons.dev/icons?i=twitter" height="35" alt="X / Twitter" /></a>
+  -->
 </p>
 
 ---
