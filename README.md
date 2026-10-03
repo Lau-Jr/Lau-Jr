@@ -2,6 +2,10 @@
 
 ### Data Engineer | MSc Data Science & AI | Building Data & Intelligent Systems
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lau-Jr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 Welcome to my little corner of GitHub — where data gets engineered, models get trained, pipelines occasionally break 😅, and ideas slowly turn into real systems.
 
 ## 👨‍💻 About Me
